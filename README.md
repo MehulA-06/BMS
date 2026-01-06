@@ -2,6 +2,7 @@
 This repository presents a Digital Twin–enabled Battery Management System (BMS) for Sodium-ion (Na-ion) batteries, integrating Simulink-based modeling, advanced state estimation, multiphysics coupling, and Remaining Useful Life (RUL) analysis.
 
 **Project Objectives:**
+
 1.Develop a physics-informed digital twin for a Sodium-ion battery.
 
 2.Estimate State of Charge (SOC) using Adaptive EKF.
